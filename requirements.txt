@@ -1,6 +1,7 @@
 # Date: 05-18-2023
 
 # Minimum requirements for a plotly dash application
+pip>=23.2.1
 Brotli==1.0.9
 click==8.0.3
 dash==2.2.0
